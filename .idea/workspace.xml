@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
   <component name="CMakeSettings">
-    <configurations />
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a64dcb6-fcf1-4e1e-a83b-87ee56fa90c0" name="Changes" comment="" />
+    <list default="true" id="63a2915e-6dd2-4cea-b6ad-e99e784e63a2" name="Changes" comment="AGM - Kruskal no arquivo main.cpp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="23APli5X2c5kcMU3TModVjjmAth" />
+  <component name="ProjectId" id="21FNTxTOytCT8Pi2BYNi3azNcsd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +33,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
@@ -40,21 +47,46 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a64dcb6-fcf1-4e1e-a83b-87ee56fa90c0" name="Changes" comment="" />
-      <created>1641174074695</created>
+      <changelist id="63a2915e-6dd2-4cea-b6ad-e99e784e63a2" name="Changes" comment="" />
+      <created>1637532886733</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1641174074695</updated>
-      <workItem from="1641174076712" duration="1950000" />
-      <workItem from="1641250551976" duration="334000" />
-      <workItem from="1641250900910" duration="1000" />
+      <updated>1637532886733</updated>
+      <workItem from="1637532888356" duration="6685000" />
+      <workItem from="1637620619844" duration="656000" />
+      <workItem from="1637623041209" duration="18000" />
+      <workItem from="1639667823505" duration="721000" />
+      <workItem from="1639913008603" duration="7692000" />
+      <workItem from="1640039793258" duration="4055000" />
+      <workItem from="1640729973436" duration="1184000" />
     </task>
+    <task id="LOCAL-00001" summary="AGM - Kruskal no arquivo main.cpp">
+      <created>1639914333608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639914333608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AGM - Kruskal no arquivo main.cpp" />
+    <option name="LAST_COMMIT_MESSAGE" value="AGM - Kruskal no arquivo main.cpp" />
   </component>
 </project>
