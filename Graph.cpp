@@ -30,7 +30,7 @@ Graph::Graph(int order, bool directed, bool weighted_edge, bool weighted_node)
     this->number_edges = 0;
 }
 
-// Destructor
+// Destructor teste
 Graph::~Graph()
 {
 
